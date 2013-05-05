@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Salaty</string>
+    <string name="city">City</string>
+    <string name="remaining">Time</string>
+</resources>
