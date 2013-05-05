@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package biz.aldaffah.douaa;
+package biz.aldaffah.tifinagh;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;

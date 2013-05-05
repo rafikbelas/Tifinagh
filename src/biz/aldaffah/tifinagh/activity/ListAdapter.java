@@ -1,4 +1,4 @@
-package biz.aldaffah.salaty.activity;
+package biz.aldaffah.tifinagh.activity;
 
 import java.util.List;
 

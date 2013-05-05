@@ -1,7 +1,7 @@
-package biz.aldaffah.salaty.activity;
+package biz.aldaffah.tifinagh.activity;
 
 
-import biz.aldaffah.douaa.R;
+import biz.aldaffah.tifinagh.R;
 import android.app.Activity;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnClickListener;
@@ -13,7 +13,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 import android.widget.Toast;
 
-public class Douaa extends Activity implements OnClickListener {
+public class Message extends Activity implements OnClickListener {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);

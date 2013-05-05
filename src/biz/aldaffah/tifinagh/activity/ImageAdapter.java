@@ -1,17 +1,45 @@
-package biz.aldaffah.salaty.activity;
+package biz.aldaffah.tifinagh.activity;
 
-import biz.aldaffah.douaa.R;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.ImageView.ScaleType;
+import biz.aldaffah.tifinagh.R;
 
 public class ImageAdapter extends BaseAdapter {
-	int[] imageIDs = {R.drawable.pic1, R.drawable.pic2, R.drawable.pic3, R.drawable.pic4, R.drawable.pic5, R.drawable.pic6};
+	int[] imageIDs = {
+  R.drawable.a, 
+  R.drawable.b, 
+  R.drawable.c, 
+  R.drawable.cue, 
+  R.drawable.d, 
+  R.drawable.dj,
+  R.drawable.e, 
+  R.drawable.f, 
+  R.drawable.gh, 
+  R.drawable.ghi, 
+  R.drawable.h, 
+  R.drawable.i, 
+  R.drawable.j, 
+  R.drawable.z, 
+  R.drawable.y, 
+  R.drawable.x, 
+  R.drawable.w, 
+  R.drawable.u, 
+  R.drawable.th, 
+  R.drawable.tch, 
+  R.drawable.t, 
+  R.drawable.s, 
+  R.drawable.r, 
+  R.drawable.q, 
+  R.drawable.n, 
+  R.drawable.m, 
+  R.drawable.l, 
+  R.drawable.k,   
+  };
 
 	private Context context;
 	
